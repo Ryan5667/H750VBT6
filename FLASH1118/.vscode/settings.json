@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "usart.h": "c",
+    "flash.h": "c",
+    "main.h": "c",
+    "memorymap.h": "c"
+  }
+}
